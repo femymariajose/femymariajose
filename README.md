@@ -1,5 +1,5 @@
 👋 Hi, I'm @femymariajose
-🔭 I'm a Data Analyst passionate about turning data into actionable insights.  
+🔭 I'm a Data Analyst.
 💻 Skilled in **Power BI**, **SQL**, **Python**, and **Tableau**.
 👀 I’m interested in coding.
 🌱 Always a student.
